@@ -16,4 +16,14 @@ Known Issues
 ------------
 When fewer than 7 items are found from the OMDb database, if the service is on initial search, it does not work. If it is not on initial search, then the first few images are replaced by the new search, but the rest remain on the previous search.
 
-
+Get Started
+-----------
+On Mac and Linux, if mono develop is installed:
+```shell
+$ clone https://github.com/kiwiluver75/OMDB-Database-Retrieval.git
+$ cd OMDB-Database-Retrieval
+$ xsp2
+```
+License
+-------
+MIT
